@@ -1,6 +1,8 @@
 # Awesome Untaught stuff in STEM
+<img src="img\1024px-Mecha_workaround.svg.png" width="300" height="300">
 
-![Banner Image](../master/img/open-end-wrench-2452245_1920.jpg)
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets2.lottiefiles.com/packages/lf20_DVSwGQ.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
 
 -------------------
 _These are a bunch of resources which i don't really know why, were not mentioned during aforementioned courses._
